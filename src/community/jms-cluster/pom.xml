@@ -16,6 +16,11 @@
 
   <name>GeoServer JMS based clustering modules</name>
   <repositories>
+      <repository>
+        <id>central</id>
+        <name>central</name>
+        <url>https://repo1.maven.org/maven2/</url>
+    </repository>
     <repository>
       <!-- needed for JMS deps -->
       <id>apache</id>
